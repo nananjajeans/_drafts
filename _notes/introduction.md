@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Answering few questions beforehand!
+title: intorduction
 ---
 
 ### Who am I?
