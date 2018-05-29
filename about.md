@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-`_drafts` by Evan Will slightly modified by nananja jeans to be a aggregrator place for my blogs. Ability to add comments in the posts is under pipeline.
+`_drafts` by Evan Will slightly modified by ***nananja jeans*** to be an aggregrator place for my blogs. Ability to add comments in the posts is under pipeline.
 
 Basically, `_drafts` is a list of [gists](https://gist.github.com/). 
 
